@@ -1,0 +1,18 @@
+{
+  "name": "here-i",
+  "version": "1.0.0",
+  "description": "Backend for traveling guide web app HereI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillaume Marteau",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "m3o": "^1.0.1132"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
